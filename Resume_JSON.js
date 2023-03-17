@@ -1,4 +1,4 @@
-var resume = [ { 
+let resume = [ { 
     "Heading": "Name and Age",
     "Name": "bhavishanth",
     "Age": "24"
